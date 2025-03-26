@@ -18,6 +18,7 @@ There are **TWO MAIN** objectives of the technical assessment:
 **1.** Refactor the people module in order to meet all of the criteria in the [code section of the evaluation](#evaluation).
 
 **2.** Ensure that as many tests as possible are passing in the spec files.
+**3.** This code is functional but not perfect. Pay close attention to the logic—there might be something that doesn’t behave as expected. Identifying and fixing such issues is part of the challenge
 
 ```
 The name of the game here is TDD (Test Driven Development).
